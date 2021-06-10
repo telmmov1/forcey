@@ -1,0 +1,20 @@
+{
+  "name": "Forceacer_bot",
+  "description": "This is a telegram bot writen in python for managing group/channel.",
+  "keywords": [
+    "telegram",
+    "meg-forcesub",
+    "forcesub"
+  ],
+  "repository": "https://github.com/gitiboys/force-subscribe-telegram-bot",
+  "success_url": "https://github.com/gitiboys/force-subscribe-telegram-bot",
+  "website": "https://github.com/gitiboys/force-subscribe-telegram-bot",  
+  "addons": [],
+  "buildpacks": [],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }  
+}
